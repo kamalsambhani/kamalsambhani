@@ -31,7 +31,7 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 Python - Sql - PowerBi - Pandas - Numpy - Matplotlib
-         Data Science - Data Analysis
+       #  Data Science - Data Analysis
 <!---
 
 --->
